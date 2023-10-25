@@ -8,7 +8,10 @@ The widespread use of ChatGPT and other emerging technology powered by generativ
 
 ## Usage
 
-*We strongly recommend reading this checklist in conjunction with the reference article above for important clarifications on all the items.*
+Download the latest checklist as a Word document: `TREGAI checklist.docx`.
+
+- *We strongly recommend reading this checklist in conjunction with the reference article above for important clarifications on all the items.*
+- We will update the checklist when there are updated ethical principles, recommended actions, or progresses in generative AI regulations and guidelines. 
 
 The TREGAI checklist is provided to systematically document ethical assessments in development or applications of generative AI, specifically:
 
@@ -20,11 +23,8 @@ The TREGAI checklist is provided to systematically document ethical assessments 
 The checklist is applicable for:
 
 - Generative AI research: to facilitate in-depth discussion during peer review and after publication.
-    - Use `TREGAI checklist - research or product` to indicate the position of relevant text in the manuscript.
 - Generative AI-powered products: to disclose ethics-related considerations and measures to help users establish reasonable trust.
-    - Use `TREGAI checklist - research or product` to indicate the position of relevant text in the detailed user manual.
 - Generative AI-created contents (e.g., on social media or in education): to disclose benefits, limitations and potential risks on relevant ethical aspects.
-    - Use `TREGAI checklist - generated content` to summarise ethical considerations in an appropriate level of detail.
  
 ## Language
 
