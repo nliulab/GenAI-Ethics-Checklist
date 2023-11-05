@@ -4,7 +4,7 @@ The widespread use of ChatGPT and other emerging technology powered by generativ
 
 ## Citation
 
-- xxx
+- To update.
 
 ## Usage
 
