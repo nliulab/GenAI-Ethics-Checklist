@@ -4,7 +4,7 @@ The widespread use of ChatGPT and other emerging technology powered by generativ
 
 ## Citation
 
-- To update.
+- Ning Y, Teixayavong S, Shang Y, Savulescu J, Nagaraj V, Miao D, Mertens M, Ting DSW, Ong JCT, Liu M, Cao J, Dunn M, Vaughan R, Ong MEH, Sung JJY, Topol EJ, Liu N. [Generative Artificial Intelligence in Healthcare: Ethical Considerations and Assessment Checklist](https://arxiv.org/abs/2311.02107). arXiv 2023; arXiv:2311.02107.
 
 ## Usage
 
