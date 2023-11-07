@@ -8,7 +8,7 @@ The widespread use of ChatGPT and other emerging technology powered by generativ
 
 ## Usage
 
-Download the latest checklist as a Word document: [`TREGAI checklist.docx`](https://github.com/nliulab/GenAI-Ethical-Checklist/blob/main/TREGAI%20checklist.docx).
+Download the latest checklist as a Word document: [`TREGAI checklist.docx`](https://github.com/nliulab/GenAI-Ethical-Checklist/releases/download/v1.0/TREGAI%20checklist.docx).
 
 - *We strongly recommend reading this checklist in conjunction with the reference article above for important clarifications on all the items.*
 - We will update the checklist when there are updated ethical principles, recommended actions, or progresses in generative AI regulations and guidelines. 
