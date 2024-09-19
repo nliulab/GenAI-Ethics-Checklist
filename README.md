@@ -14,7 +14,7 @@ Ethical principles covered in the checklist are summarised below:
   <img src="Ethical%20Principles.jpg" width="80%"/>
 </p>
 
-The latest checklist and definitions of ethical principles can be downloaded as a Word document: [TREGAI_checklist.docx](https://github.com/nliulab/GenAI-Ethical-Checklist/releases/download/v1.1/TREGAI_checklist.docx).
+The latest checklist and definitions of ethical principles can be downloaded as a Word document: [TREGAI_checklist.docx](https://github.com/nliulab/GenAI-Ethical-Checklist/releases/download/v1.0/TREGAI_checklist.docx).
 
 We develop the TREGAI checklist for use by journals, institutional review boards, funders, regulators, and other potential users as a facilitating tool to promote systematic ethical investigations in GenAI research. As an immediate extension, the TREGAI checklist can be used for ethical assessments of GenAI-powered products derived from research based on user manuals.
 
@@ -26,7 +26,7 @@ We develop the TREGAI checklist for use by journals, institutional review boards
 
 <p xmlns:cc="http://creativecommons.org/ns#" >This work is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
 
-Download the latest checklist as a Word document: [TREGAI_checklist.docx](https://github.com/nliulab/GenAI-Ethical-Checklist/releases/download/v1.1/TREGAI_checklist.docx).
+Download the latest checklist as a Word document: [TREGAI_checklist.docx](https://github.com/nliulab/GenAI-Ethical-Checklist/releases/download/v1.0/TREGAI_checklist.docx).
 
 - *We strongly recommend reading this checklist in conjunction with the reference article above for important clarifications on all the items.*
 - We will update the checklist when there are updated ethical principles, recommended actions, or progresses in generative AI regulations and guidelines. 
